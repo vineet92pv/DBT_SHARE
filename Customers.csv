@@ -1,0 +1,101 @@
+CUST_ID,CUSTNAME,CITY,STATE,COUNTRY_CODE,POSTAL_CODE,EMAIL_ADDRESS,PHONE_NUMBER,YTD_SALES,SALESREP_ID,NATIONALITY,NATIONAL_ID,CREDITCARD_NUMBER,CREDITCARD_TYPE,CREDITCARD_EXP,CREDITCARD_CVV
+10044,Esperanza Pardo,Alberton,SA,AU,5014,Esperanza.C.pardo@trashymail.com,966-771-5050,18735.7,SE403,IT,943-254-707,4860000000000000,Discover,24-Dec,5443
+10052,James Smith,Albury,NSW,AU,2640,James.E.Smith@dodgeit.com,925-845-6235,0,NW112,IT,998-599-243,4610000000000000,American Express,24-Dec,6953
+10060,Chad Young,Aldersyde,WA,AU,6306,Chad.S.young@dodgeit.com,765-196-1399,1782.03,RP385,FR,606-735-647,4660000000000000,American Express,24-Dec,1367
+10061,Terrell Langan,Alexandra,QLD,AU,4740,Terrell.C.langan@dodgeit.com,727-216-9982,904.86,SC391,CA,749-414-397,4410000000000000,American Express,24-Dec,8017
+10088,Daniel Carr,Alva,QLD,AU,4807,Daniel.D.carr@trashymail.com,764-720-6575,853.3,NC232,IT,645-803-408,4140000000000000,Diners Club,25-Jan,7932
+10357,Lori Barnes,Boambee,NSW,AU,2450,Lori.W.barnes@pookmail.com,446-333-8358,0,NE304,CA,913-356-843,4530000000000000,Discover,25-Jan,3912
+10103,Phyllis Jusinno,Angas Plains,SA,AU,5255,Phyllis.J.Tusinno@pookmail.com,208-928-9277,90.3,WE151,IT,284-197-273,4260000000000000,American Express,25-Jan,6360
+10079,Earl Rutherford,Alma,QC,CA,64728,Earl.M.rutherford@pookmail.com,613-198-1340,1782.03,NE172,ES,648-177-448,4250000000000000,American Express,25-Jan,5261
+10106,Cheri Daryn,Laguna,QC,CA,J0Z 1A0,Cheri.Daryn@trashymail.com,746-568-4746,304,NC169,ES,528-293-359,4330000000000000,American Express,25-Jan,1239
+10007,Anthony Johnson,Achstetten,,DE,88480,Anthony.H.johnson@pookmail.com,907-111-5490,354,WE349,IT,595-442-524,4200000000000000,VISA,24-Nov,9785
+10408,Denise Hoffman,Bovenden,,DE,37120,Denise.A.hoffman@spambob.com,433-971-3885,0,NE367,IT,111-128-943,4530000000000000,Diners Club,25-Jan,6534
+10019,Anthony Perry,Agallas,,ES,37511,Anthony.T.perry@trashymail.com,785-306-8808,3780.51,SE208,IT,101-904-234,2180000000000000,Discover,24-Nov,2816
+10027,Melvin Garcia,Aigues,,ES,3569,Melvin.B.garcia@dodgeit.com,150-561-4009,304,SW409,IT,301-901-563,4350000000000000,VISA,24-Nov,9166
+10054,Jackie Carter,Alcala de Xivert,,ES,12570,Jackie.D.carter@dodgeit.com,988-573-3564,6000.28,SW214,FR,382-318-359,4820000000000000,American Express,24-Dec,4957
+10055,Reda Shamblin,Alcalali,,ES,3728,Reda.J.shamblin@dodgeit.com,978-356-7140,180.3,SE205,IT,381-279-761,4550000000000000,Diners Club,24-Dec,6744
+10056,Violet Frazier,Alcazar de San Juan,,ES,13600,Violet.C.frazier@dodgeit.com,432-764-8785,505,SE208,CA,889-698-144,4600000000000000,VISA,24-Dec,3244
+10057,Marjorie Young,Aldaia,,ES,46960,Marjorie.L.young@dodgeit.com,608-394-6279,5869.4,SC322,ES,837-421-923,4720000000000000,American Express,24-Dec,7463
+10059,Cecil Cyr,Aldearrubia,,ES,37340,Cecil.A.cyr@trashymail.com,607-301-1712,290.48,WE421,FR,632-302-851,4260000000000000,VISA,24-Dec,4531
+10081,Ruby Schmitz,Almenara,,ES,12590,Ruby.J.schmitz@trashymail.com,388-388-8101,2550,NW115,FR,576-515-596,4980000000000000,VISA,25-Jan,7932
+10028,Michele Brown,Aix-en-provence,,FR,13090,Michele.J.brown@spambob.com,541-446-6560,904.86,NE235,ES,455-115-197,4420000000000000,Discover,24-Nov,6086
+10092,Joe Owens,Amiens,,FR,80080,Joe.L.owens@trashymail.com,704-507-5244,18735.7,NC364,IT,261-573-625,4800000000000000,Diners Club,25-Jan,8397
+10093,Mark Cantu,Amiens,,FR,80090,Mark.L.cantu@spambob.com,131-482-7053,904.86,NC292,FR,459-423-312,4250000000000000,Discover,25-Jan,5785
+10094,William Sanchez,Amiens,,FR,80090,William.P.sanchez@mailinator.com,546-630-6861,492,SE397,IT,186-175-254,4810000000000000,VISA,25-Jan,1709
+10104,Mary Perl,Angers,,FR,49100,Mary.T.Perl@pookmail.com,856-840-1685,0,SW343,ES,680-525-707,4910000000000000,American Express,25-Jan,8815
+10001,Michael Golden,Abbadia Alpina,TO,IT,10060,Michael.E.golden@spambob.com,724-454-8453,90.3,SE133,IT,152-374-114,5670000000000000,American Express,24-Oct,4950
+10003,Allen Schmidt,Abeto,PG,IT,6040,Allen.M.schmidt,288-202-8653,304,RP385,U.S.,346-450-984,3410000000000000,Master Card,24-Oct,6120
+10006,Rebecca White,Acate,RG,IT,97011,Rebecca.white@spambob.com,828-268-4303,52,SC325,IT,910-870-499,5790000000000000,American Express,24-Oct,7822
+10008,Alberto Fabian,Acquabona,BL,IT,32043,Alberto.T.fabian@pookmail.com,113-785-7672,352,SW211,CA,270-598-741,5800000000000000,American Express,24-Nov,2725
+10009,Ronald Gordon,Acquarica Del Capo,LE,IT,73040,Ronald.J.gordon@dodgeit.com,994-960-8006,0,NW313,IT,862-654-325,5610000000000000,American Express,24-Nov,5606
+10010,Christopher Marcello,Acquarola,SA,IT,84080,Christopher.V.marcello@trashymail.com,717-217-7230,180.3,NC160,FR,173-526-693,5950000000000000,American Express,24-Nov,7416
+10015,Thomas Thompson,Adami,CZ,IT,88041,Thomas.N.thompson@mailinator.com,431-234-4026,304,WE352,FR,344-724-281,4600000000000000,VISA,24-Nov,7655
+10018,Curtis Spear,Afragola,NA,IT,80021,Curtis.N.spear@dodgeit.com,372-602-5970,5000.9,NW118,UK,886-542-435,6530000000000000,Diners Club,24-Nov,287
+10020,Jasmine Hall,Agliano Terme,AT,IT,14041,Jasmine.M.hall@trashymail.com,829-738-4697,152,RP319,U.S.,285-433-598,5710000000000000,American Express,24-Nov,9458
+10021,Earl Mills,Agnadello,CR,IT,26020,Earl.R.mills@mailinator.com,247-773-7970,0,WE220,ES,387-527-216,4460000000000000,VISA,24-Nov,2675
+10022,Jonathan Joiner,Agnano,NA,IT,80125,Jonathan.T.joiner@spambob.com,837-197-8450,5320.86,WE355,ES,122-887-358,2510000000000000,Discover,24-Nov,834
+10025,Manuel Wade,Aielli,AQ,IT,67041,Manuel.E.wade@trashymail.com,813-785-4282,298.83,NE175,ES,702-324-175,3930000000000000,Master Card,24-Nov,3598
+10026,Kelly Williams,Aiello Calabro,CS,IT,87031,Kelly.N.williams@pookmail.com,889-609-7513,5869.4,NW184,IT,498-582-148,5980000000000000,American Express,24-Nov,1760
+10032,Kimberly Sullivan,Ala Di Stura,TO,IT,10070,Kimberly.J.sullivan@trashymail.com,249-698-7603,568.3,SC325,U.S.,637-124-142,4740000000000000,American Express,24-Nov,9597
+10033,Stanley Fowler,Alagna Lomellina,PV,IT,27020,Stanley.L.fowler@spambob.com,617-962-8742,6000.28,SW280,CA,481-584-509,4860000000000000,American Express,24-Nov,2663
+10034,Stephanie Bruner,Alassio,SV,IT,17021,Stephanie.R.bruner@dodgeit.com,417-116-3246,6000.28,SE265,IT,971-616-212,4140000000000000,VISA,24-Nov,9293
+10035,Muriel Middleton,Alba Di Canazei,TN,IT,38030,Muriel.J.middleton@trashymail.com,475-611-7128,18735.7,SW412,FR,423-436-753,4610000000000000,Discover,24-Nov,3857
+10036,Jo Delacruz,Albanella,SA,IT,84044,Jo.E.delacruz@mailinator.com,371-417-8816,853.3,SE205,ES,667-561-377,4190000000000000,American Express,24-Nov,23
+10046,Sharon Tourner,Albignasego,PD,IT,35020,Sharon.M.tourner@spambob.com,574-739-9136,90.3,NE370,ES,859-839-707,4770000000000000,Diners Club,24-Dec,5142
+10047,Calvin Moore,Albosaggia,SO,IT,23100,Calvin.M.moore@spambob.com,798-357-1868,0,NE373,IT,307-239-695,4360000000000000,VISA,24-Dec,4199
+10065,Charlene Brewer,Alfianello,BS,IT,25020,Charlene.D.brewer@spambob.com,515-530-2899,152,SE208,UK,422-581-758,4710000000000000,American Express,24-Dec,8896
+10066,Brandon Austin,Alfiano Natta,AL,IT,15021,Brandon.S.austin@spambob.com,968-251-3660,0,RP385,CA,221-316-359,4310000000000000,VISA,24-Dec,9952
+10083,Linda Cook,Alpo,VR,IT,37060,Linda.J.cook@mailinator.com,118-236-6604,0,SE268,U.S.,224-679-471,4030000000000000,American Express,25-Jan,1133
+10085,Robin Gay,Altamura,BA,IT,70022,Robin.J.gay@spambob.com,335-106-5445,904.86,WE286,FR,775-617-725,4550000000000000,Discover,25-Jan,4021
+10089,James Lau,Alvito,FR,IT,3041,James.B.lau@dodgeit.com,459-558-3406,568.3,RP385,IT,929-502-415,4880000000000000,VISA,25-Jan,6814
+10099,Michael Mendoza,Ancona,AN,IT,60123,Michael.Mendoza@dodgeit.com,688-784-6637,673,RP385,U.S.,226-429-972,4580000000000000,Diners Club,25-Jan,8785
+10100,Mariana Cook,Ancona,AN,IT,60126,Mariana.Cook@dodgeit.com,340-506-5655,863.9,RP319,UK,385-329-458,4030000000000000,American Express,25-Jan,3598
+10101,Suzanne Bolger,Andonno,CN,IT,12010,Suzanne.M.Bolger@trashymail.com,692-714-6930,9095.04,SC256,CA,728-589-848,4460000000000000,American Express,25-Jan,4199
+10102,Evelyn Conner,Andria,BA,IT,70031,Evelyn.R.Conner@mailinator.com,845-679-3051,904.86,SE208,UK,505-673-311,4680000000000000,American Express,25-Jan,3964
+10012,Chris Green,ACTON,,UK,10101,Chris.M.green@pookmail.com,933-753-6160,5869.4,RP385,U.S.,321-821-746,2780000000000000,Discover,24-Nov,6391
+10053,Vanessa Fullilove,ALBY HILL,,UK,20110,Vanessa.P.fullilove@pookmail.com,229-942-5028,352,SW340,ES,930-619-152,4860000000000000,American Express,24-Dec,7766
+10073,Arturo Brownlee,ALL STRETTON,,UK,23445,Arturo.B.brownlee@pookmail.com,332-437-2203,304,WE415,UK,766-993-826,4810000000000000,Discover,24-Dec,6391
+10078,Betsy Scott,ALLTNACAILLICH,,UK,84848,Betsy.P.scott@mailinator.com,325-997-4909,904.86,NE373,ES,954-864-101,4940000000000000,Diners Club,24-Dec,6780
+10002,Renee Mullins,Columbus,OH,US,45101,Rene.K.mullins@dodgeit.com,229-990-2162,0,NC169,UK,124-168-918,5150000000000000,American Express,24-Oct,6951
+10004,Robert May,Houston,TX,US,79601,Robert.C.may@spambob.com,630-492-6535,304,SE337,U.S.,516-264-270,4860000000000000,VISA,24-Oct,1794
+10005,Joe Cruz,Harrisonburg,VA,US,24210,Joe.D.cruz@spambob.com,448-788-1089,180.3,WE355,ES,766-887-613,4910000000000000,VISA,24-Oct,7596
+10352,Gary Neal,Chicago,IL,US,61701,Gary.N.neal@dodgeit.com,267-929-9454,673,WE283,U.S.,145-878-802,4260000000000000,VISA,24-Oct,1794
+10422,Steve Huynh,Detroit,MI,US,48614,Steve.A.huynh@dodgeit.com,644-101-7549,904.86,NE307,CA,660-530-929,5630000000000000,American Express,24-Oct,4511
+10013,Norbert Crawford,Lansing,MI,US,49301,Norbert.T.crawford@spambob.com,983-926-6221,6101,SW280,CA,626-436-952,2380000000000000,Discover,24-Nov,1802
+10014,Mike Dunmire,Louisville,KY,US,42202,Mike.L.dunmire@spambob.com,728-473-5757,290.48,SW214,CA,490-501-154,4300000000000000,VISA,24-Nov,3958
+10016,Margaret Smith,Benld,IL,US,60101,Margaret.R.smith@dodgeit.com,546-811-6192,0,SW148,IT,446-132-118,6680000000000000,Diners Club,24-Nov,5965
+10024,Earl Severson,Dallas,TX,US,78380,Earl.J.severson@mailinator.com,151-621-3826,2550,SC388,UK,298-314-268,4600000000000000,VISA,24-Nov,7163
+10031,John Cohen,Akron,OH,US,44311,John.D.cohen@trashymail.com,159-448-5428,492,SW274,IT,597-332-842,4610000000000000,American Express,24-Nov,4216
+10037,Dana Sanders,New York,NY,US,12210,Dana.M.sanders@spambob.com,278-220-2767,492,NE373,U.S.,293-802-860,4230000000000000,American Express,24-Nov,2218
+10038,John Herring,Atlanta,GA,US,31707,John.N.herring@mailinator.com,473-751-6076,486,WE223,FR,165-567-664,4200000000000000,American Express,24-Nov,2187
+10039,James Hayes,Nyack,NY,US,12204,James.O.hayes@pookmail.com,979-977-5433,904.86,NW247,IT,675-319-762,4300000000000000,Master Card,24-Nov,6641
+10040,Stephen Murillo,Savannah,GA,US,31707,Stephen.B.murillo@trashymail.com,379-218-5577,853.3,WE286,CA,539-546-560,4770000000000000,Diners Club,24-Nov,9036
+10041,Mary& Bourland,Albany,NY,US,12207,Mary.H.bourland@mailinator.com,247-893-3910,18735.7,NE238,UK,593-567-916,4650000000000000,Diners Club,24-Nov,2293
+10042,Carrol Gibson,Boston,MA,US,2110,Carrol.K.gibson@pookmail.com,882-839-3709,673,NW181,ES,288-762-408,4210000000000000,American Express,24-Dec,5933
+10048,Amy Meyers,Albuquerque,NM,US,87107,Amy.B.Lmeyers@trashymail.com,408-623-4161,298.83,WE352,U.S.,866-332-302,4140000000000000,American Express,24-Dec,688
+10049,Zachary? Locke,Taos,NM,US,87109,Zachary.M.locke@mailinator.com,753-484-3836,304,SW145,IT,970-485-190,4520000000000000,American Express,24-Dec,2707
+10050,Linda Games,Sante Fe,NM,US,87114,Linda.D.games@dodgeit.com,765-285-3572,1820.08,SW277,IT,472-691-684,4430000000000000,American Express,24-Dec,2005
+10051,Alfonso Betts,Taos,NM,US,87109,Alfonso.K.betts@pookmail.com,553-715-8233,52,WE418,FR,439-589-844,4220000000000000,American Express,24-Dec,9492
+10062,Clifford Cook,Alexandria,VA,US,22306,Clifford.D.cook@dodgeit.com,989-457-5751,5869.4,NC232,ES,501-916-401,4610000000000000,American Express,24-Dec,1135
+10392,Maggie Shupe,Waltham,MA,US,2215,Maggie.B.shupe@spambob.com,738-126-4234,492,NE172,IT,113-743-369,4940000000000000,VISA,24-Dec,2370
+10063,Edward Roussel@,New Orleans,LA,US,71301,Edward.C.roussel@mailinator.com,668-691-2854,5000.9,WE154,FR,249-490-158,4700000000000000,Diners Club,24-Dec,8236
+10064,Karin098 Carrillo,Alexandria,LA,US,71301,Karin.D.carrillo@dodgeit.com,436-985-9697,90.3,RP319,U.S.,780-966-478,4830000000000000,American Express,24-Dec,9359
+10069,Roy Gillespie,Los Angeles,CA,US,91801,Roy.L.gillespie@pookmail.com,243-717-8900,2550,SE139,U.S.,845-184-238,4880000000000000,Diners Club,24-Dec,2885
+10070,Cheryl Moyle,San Francisco,CA,US,91801,Cheryl.T.moyle@spambob.com,777-356-6761,298.83,SE139,ES,344-796-714,4220000000000000,Diners Club,24-Dec,5283
+10072,Shirley Dunn,Oakland,CA,US,92656,Shirley.C.dunn@spambob.com,921-706-8376,52,SW343,FR,361-169-274,4600000000000000,American Express,24-Dec,538
+10074,Barbara Lugo,Allen,TX,US,75002,Barbara.J.lugo@spambob.com,422-722-6788,1820.08,NC166,FR,654-177-913,4610000000000000,Discover,24-Dec,1745
+10075,Rafael Exley,Baltimore,MD,US,20222,Rafael.G.exley@spambob.com,696-940-6964,352,SC262,U.S.,749-376-665,4320000000000000,American Express,24-Dec,801
+10077,Dawn Greenawalt,Allentown,PA,US,18109,Dawn.R.greenawalt@dodgeit.com,764-459-5358,5231,SW343,IT,448-573-904,4050000000000000,Discover,24-Dec,4634
+10080,Christopher Griffith,Alma,MI,US,48801,Christopher.A.griffith@mailinator.com,569-132-4505,120,RP121,IT,912-503-378,4170000000000000,American Express,25-Jan,2012
+10082,Mary Tracy,Alpena,MI,US,49707,Mary.F.tracy@pookmail.com,919-617-9035,298.83,NC424,UK,211-910-843,4290000000000000,American Express,25-Jan,8136
+10084,Derek Johnson,Orlando,FL,US,32701,Derek.B.johnson@spambob.com,701-840-8683,5231,SE337,IT,191-795-470,4360000000000000,Discover,25-Jan,6847
+10395,Matt Quijano,Braintree,MA,US,2215,Matt.J.quijano@spambob.com,473-471-5442,853.3,SE205,U.S.,312-915-501,4990000000000000,VISA,25-Jan,4355
+10087,Derek Love,Altoona,PA,US,16601,Derek.I.love@dodgeit.com,597-894-9981,492,SW277,CA,867-470-614,4480000000000000,American Express,25-Jan,23
+10091,Quinn Gentry,Amarillo,TX,US,79109,Quinn.S.gentry@spambob.com,164-535-8185,6000.28,SC322,IT,542-622-113,4690000000000000,American Express,25-Jan,2365
+10095,Kristin Fowler,San Diego,CA,US,92805,Kristin.T.fowler@spambob.com,511-852-7035,486,WE154,FR,392-136-361,4110000000000000,Diners Club,25-Jan,4236
+10096,Jennifer Whitney,Anaheim,CA,US,92804,Jennifer.whitney@mailinator.com,431-568-9450,486,SC127,UK,339-653-315,4230000000000000,American Express,25-Jan,8124
+10097,Isaac Farmer,Sacramento,CA,US,92805,Isaac.Farmer@mailinator.com,173-790-7370,853.3,WE286,FR,861-819-749,4490000000000000,Diners Club,25-Jan,2326
+10098,Mimi Barnes,Anchorage,AK,US,99501,Mimi.Barnes@dodgeit.com,173-790-7370,120,WE286,IT,558-947-717,4240000000000000,Diners Club,25-Jan,5678
+10105,Ronald York,Clayton,LA,US,70426,Ronald.L.York@pookmail.com,173-790-7370,18735.7,SC322,U.S.,442-299-933,4780000000000000,American Express,25-Jan,7851
+10107,Katherine Williams,Bakersfield,CA,US,94508,Katherine.W.Williams,173-790-7370,6000.28,NC424,ES,894-711-587,4690000000000000,Diners Club,25-Jan,1656
+10108,Norma Misawa,Ann Arbor,MI,US,48108,nmisawa@trashymail.com,406-630-1559,52,NE307,CA,851-613-458,4030000000000000,Diners Club,25-Jan,1567
